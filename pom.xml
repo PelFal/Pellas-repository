@@ -14,7 +14,7 @@
     </parent>
 
     <!-- Projektinformation -->
-    <groupId>Systementor</groupId>
+    <groupId>se.pellas</groupId>
     <artifactId>ci-demo1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>ci-demo1</name>
