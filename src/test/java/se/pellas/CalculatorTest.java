@@ -52,7 +52,7 @@ class CalculatorTest {
     @Test
     void addShouldReturn3() {
         int result = calculator.add(a,b);
-        assertEquals(2,result);
+        assertEquals(3,result);
 
     }
 
