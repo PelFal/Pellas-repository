@@ -1,4 +1,4 @@
-
+package se.pellas;
 
 public class Calculator {
 
